@@ -1,0 +1,22 @@
+{
+  "destinations": "Destinations",
+  "tours": "Tours",
+  "create-destinations": "Create Destinations",
+  "create-tour": "Create Tour",
+  "users": "Users",
+  "update": "Update",
+  "delete": "Delete",
+  "search": "Search...",
+  "city": "City:",
+  "country": "Country:",
+  "description": "Description:",
+  "image-adress": "Image adress:",
+  "create": "Create",
+  "price": "Price:",
+  "rating": "Rating:",
+  "details": "Details:",
+  "Image-URLs": "Image URLs:",
+  "Add-Image": "Add Image",
+  "update-tour": "Update Tour",
+  "select-destinations": "Select destinations:"
+}

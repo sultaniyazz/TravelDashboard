@@ -1,0 +1,22 @@
+{
+  "destinations": "Manziller",
+  "tours": "Ekskursiyalar",
+  "create-destinations": "Manziller qosiw",
+  "create-tour": "Ekskursiyalar qosiw",
+  "users": "Paydalaniwshilar",
+  "update": "Jańalaw",
+  "delete": " óshiriw",
+  "search": "Izlew...",
+  "city": "Qala:",
+  "country": "Mámleket:",
+  "description": " Tariyp:",
+  "image-adress": "Suwret adresi:",
+  "create": "Jaratiw",
+  "price": "Bahasi:",
+  "rating": "Reyting:",
+  "details": "Toliq maǵliwmatlar:",
+  "Image-URLs": "Súwret URL adresi:",
+  "Add-Image": "Súwret qosiw",
+  "update-tour": "Update Tour",
+  "select-destinations": "Belgilengen mánziller:"
+}

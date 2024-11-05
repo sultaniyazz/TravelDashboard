@@ -1,0 +1,22 @@
+{
+  "destinations": "Места",
+  "tours": "Экскурсии",
+  "create-destinations": "Создать Места",
+  "create-tour": "Создать тур",
+  "users": "Пользователи",
+  "update": "Обновить",
+  "delete": "Удалить",
+  "search": "Пойск...",
+  "city": "Город:",
+  "country": "Страна:",
+  "description": "Описание:",
+  "image-adress": "Адрес изображения:",
+  "create": " Создать",
+  "price": "Цена:",
+  "rating": "Рейтинг:",
+  "details": "Подробности:",
+  "Image-URLs": " URL-адреса изображений:",
+  "Add-Image": "Добавление изображения",
+  "update-tour": "Update Tour",
+  "select-destinations": "Выбор пунктов назначения:"
+}
